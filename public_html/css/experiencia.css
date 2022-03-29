@@ -1,0 +1,21 @@
+#experiencia{
+    text-align: center;
+    margin-top: 4%;
+    
+}
+#experiencia h2{
+    font-size: 50px;
+    margin-bottom: 6%;
+    
+}
+#experiencia h3{
+    color: green;
+}
+#experiencia p{
+    margin-top: 4%;
+    margin-bottom: 6%;
+    font-size: 25px;
+}
+#experiencia img{
+    margin-top: 2%;
+}

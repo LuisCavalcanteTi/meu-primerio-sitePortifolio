@@ -1,0 +1,25 @@
+#SobreMim h2{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 60px;
+}
+#SobreMim h3{
+    margin-top: 5%;
+    text-align: center;
+    font-family:Gotham, Arial, sans-serif;
+}
+#SobreMim img{
+   
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+#carouselExampleIndicators{
+    background-color: #DCDCDC;
+    margin-top: 2%;
+    
+    
+}
+

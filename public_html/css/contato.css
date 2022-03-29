@@ -1,0 +1,16 @@
+#contato{
+    border-style:double ;
+    margin-top: 5%;
+     text-align: center;
+     color: #28a745;
+}
+#contato h2{
+    margin-bottom: 5%;
+   
+}
+h2{
+    text-align: center;
+}
+#contato img{
+    margin-top: 7%;
+}

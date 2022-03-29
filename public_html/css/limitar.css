@@ -1,0 +1,36 @@
+#limitar{
+   margin-top:15%;
+   text-align:center;
+
+}
+
+#limitar h1{
+    font-size: 50px;
+   
+    font: Brandon, sans-serif;
+    
+    text-align: center;
+}
+#limitar h2{
+    font-size: 25px;
+    
+    font: Brandon, Gotham-Book, sans-serif;
+    text-align: center;
+}
+
+#limitar h3{
+   src: url('fonts/GOTHAM-BOOK.ttf');
+    font: 'Gotham Book', Gotham-Book, sans-serif;
+    font-size: 20px;
+    text-align: center ;
+}
+ #limitar img{
+     margin-left:auto;
+     padding: auto;
+     text-align:center;
+     
+    
+     
+   
+    border-radius: 50%;
+}

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+nav{
+    background-color: #4ABDAC;
+    height: 30px;
+    position: relative;
+}
+nav a{
+    color: #fff;
+    text-decoration:none; 
+    font-size: 16px;
+    font-family: Leelawadee;
+}
+
+header figure{
+    background-image: url("../img/logo.png");
+	width:120px;
+	height: 120px;
+    position: absolute;
+	z-index: 2;	
+	top: 2%
+}
+
+p{
+	font-family: 'Nanum Gothic', sans-serif;
+	
+}
+
+span a{
+	text-decoration: none;
+}
